@@ -1,1 +1,2 @@
 {game: test; icon: https://test.test/icon.png; loadlink: https://githubraw.com/testgameraw.zip; openfilelocate: testgameraw/test.exe;}
+{game: test2; icon: https://test.test/icon.png; loadlink: https://githubraw.com/testgameraw.zip; openfilelocate: testgameraw/test.exe;}
