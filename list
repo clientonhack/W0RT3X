@@ -5,3 +5,4 @@
 {game: Super mario 64; icon: https://i.pinimg.com/736x/a5/22/55/a5225571f1df8957df085cc5aaaf18f3.jpg; loadlink: https://github.com/clientonhack/W0RT3X/raw/refs/heads/main/mario.zip; openfilelocate: mario/run.bat}
 {game: Tlauncher Legacy Installer; icon: https://i.pinimg.com/736x/9a/31/16/9a3116733571bb94a1c57220400f747a.jpg; loadlink: https://github.com/clientonhack/W0RT3X/releases/download/v1.3/TL.zip; openfilelocate: TL/run.bat}
 {game: Hello Neighbour alpha 1; icon: https://i.pinimg.com/736x/cc/d8/96/ccd896cd31bf8668f3234170542c1376.jpg; loadlink: https://github.com/clientonhack/W0RT3X/releases/download/v1.4/HelloAlpha1.zip; openfilelocate: HelloAlpha1/run.bat}
+{game: Plants vs Zombie; icon: https://i.pinimg.com/736x/03/11/27/031127c1d42c73fd44ab9ffea461212c.jpg; loadlink: https://github.com/clientonhack/W0RT3X/releases/download/v1.5/pvz.zip; openfilelocate: pvz/run.bat}
