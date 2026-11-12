@@ -18,3 +18,4 @@
 {game: Змейка; icon: https://i.pinimg.com/1200x/d4/e3/e6/d4e3e6a465c78ae49c0717cc0aa3b1f0.jpg; loadlink: https://github.com/clientonhack/W0RT3X/raw/refs/heads/main/%D0%97%D0%BC%D0%B5%D0%B9%D0%BA%D0%B0.zip; openfilelocate: Змейка/run.bat}
 {game: Tank-Battle; icon: https://i.pinimg.com/736x/cd/94/e6/cd94e66e4e69c9f47f678bb53a2b1174.jpg; loadlink: https://github.com/clientonhack/W0RT3X/raw/refs/heads/main/Tank.zip; openfilelocate: Tank/run.bat}
 {game: Tetris; icon: https://i.pinimg.com/736x/9f/21/6a/9f216a9ef4c3a1719662dbd309199fa4.jpg; loadlink: https://github.com/clientonhack/W0RT3X/raw/refs/heads/main/Tetris.zip; openfilelocate: Tetris/run.bat}
+{game: FNF; icon: https://i.pinimg.com/1200x/10/d3/d6/10d3d61e33caddac95c9df7bcf2508b6.jpg; loadlink: https://github.com/g1g1g1g1n228-cell/ddedd/releases/download/sosalka/PsychEngine-Windows32.zip; openfilelocate: PsychEngine/PsychEngine.exe}
