@@ -1,0 +1,3 @@
+version: 2.0
+loadlink: example.com/zip.zip
+open: W0RT3X/Installer.bat
